@@ -1,4 +1,4 @@
-<img width="3000" height="4000" alt="20250904_223246" src="https://github.com/user-attachments/assets/691efe82-1d1c-40f8-a373-0581840ec2d4" /># Designed and built a fully functional electronic prosthetic limb across 3 development phases over 4 years
+# Designed and built a fully functional electronic prosthetic limb across 3 development phases over 4 years
 # Low-cost Carbon Fiber Bionic Arm with Smart Multi-Modal Sensor Fusion and IoT-Enabled Adaptive Control Bionic Arm with Edge AI & PID Control  
 
 
