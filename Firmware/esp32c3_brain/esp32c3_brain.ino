@@ -1,3 +1,4 @@
+// Modified by: Ahmed Bahaa El-din for V3 Bionic Arm
 // ============================================================
 //  ESP32-C3 — Bionic Arm "Brain" + Blynk IoT
 //  Serial to Arduino: TX=GPIO21 → D13(Arduino RX)
@@ -29,8 +30,8 @@
 #include <Wire.h>
 
 // ─── WiFi ─────────────────────────────────────────────────────
-char ssid[] = "Vodafone_bahaa_VDSL_E6AA_2.4G";
-char pass[] = "SSABD5BOB#1QAZ@2WSX@3ed";
+char ssid[] = "--";
+char pass[] = "--";
 
 // ─── Pins ─────────────────────────────────────────────────────
 #define LED_PIN  2
