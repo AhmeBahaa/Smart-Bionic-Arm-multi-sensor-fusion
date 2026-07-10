@@ -2,10 +2,10 @@
 # Low-cost Carbon Fiber Bionic Arm with Smart Multi-Modal Sensor Fusion and IoT-Enabled Adaptive Control Bionic Arm with Edge AI & PID Control  
 
 
-![Bionic Arm Prototype](<img width="300" height="400" alt="20251206_154928" src="https://github.com/user-attachments/assets/4bf4adc4-fecf-4fb3-894e-2f8aaefda2c6" />
+![Bionic Arm Prototype](<img width="100" height="100" alt="20251206_154928" src="https://github.com/user-attachments/assets/4bf4adc4-fecf-4fb3-894e-2f8aaefda2c6" />
 )
 
-![Bionic Arm Prototype](<img width="400" height="300" alt="20251016_204006" src="https://github.com/user-attachments/assets/3f609c2c-e592-4168-8b93-bffc2982213a" />
+![Bionic Arm Prototype](<img width="100" height="100" alt="20251016_204006" src="https://github.com/user-attachments/assets/3f609c2c-e592-4168-8b93-bffc2982213a" />
 )
 This repository highlights the final, highly optimized firmware for the 3rd generation of a Smart Bionic Arm. The project integrates advanced sensor fusion, embedded machine learning, and high-efficiency control loops to provide natural upper-limb prosthetic movement.
 
